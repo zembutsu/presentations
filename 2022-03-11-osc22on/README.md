@@ -17,6 +17,7 @@
 
 ## スライド
 
-(TBD; 後日公開予定)
+- https://www.slideshare.net/zembutsu/centos-linux-8-eol-presentation-osc22onpdf
+- 
 
 
